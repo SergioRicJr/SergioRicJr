@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="530" viewBox="0 0 560 530" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Sergio — Backend, sistemas e cloud</title>
-  <desc id="desc">Foco atual em Rust, Python e Kubernetes. Versão vertical do card para telas pequenas.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="580" viewBox="0 0 560 580" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sergio Nascimento — Engenheiro de Software</title>
+  <desc id="desc">Arquitetura de Software. Foco atual em Rust, Python e Kubernetes. Versão vertical do card para telas pequenas.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="560" y2="530" gradientUnits="userSpaceOnUse">
+    <linearGradient id="background" x1="0" y1="0" x2="560" y2="580" gradientUnits="userSpaceOnUse">
       <stop stop-color="#101C2C"/>
       <stop offset="1" stop-color="#080F1B"/>
     </linearGradient>
@@ -15,8 +15,8 @@
       <stop offset="1" stop-color="#2A728E" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect x=".5" y=".5" width="559" height="529" rx="22" fill="url(#background)" stroke="#26364A"/>
-  <rect x="1" y="1" width="558" height="528" rx="22" fill="url(#light)"/>
+  <rect x=".5" y=".5" width="559" height="579" rx="22" fill="url(#background)" stroke="#26364A"/>
+  <rect x="1" y="1" width="558" height="578" rx="22" fill="url(#light)"/>
   <g aria-hidden="true" stroke="#437790" stroke-opacity=".25" stroke-width="1.5">
     <path d="M410 40L468 74V141L410 175L352 141V74L410 40Z"/>
     <path d="M352 74L410 108L468 74M410 108V175"/>
@@ -24,20 +24,21 @@
   </g>
   <path d="M40 41H116" stroke="#67E8F9" stroke-width="3" stroke-linecap="round"/>
   <text x="40" y="85" fill="#9CB0C7" font-family="Consolas, 'Liberation Mono', monospace" font-size="21" letter-spacing="1.4">SERGIORICJR</text>
-  <text x="37" y="177" fill="#F1F6FC" font-family="'Segoe UI', Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="-2.8">Sergio</text>
-  <text x="40" y="233" fill="#C7D5E5" font-family="'Segoe UI', Arial, sans-serif" font-size="33">Backend, sistemas</text>
-  <text x="40" y="275" fill="#C7D5E5" font-family="'Segoe UI', Arial, sans-serif" font-size="33">&amp; cloud</text>
-  <text x="41" y="337" fill="#94A9BF" font-family="Consolas, 'Liberation Mono', monospace" font-size="18" letter-spacing="2">FOCO ATUAL</text>
+  <text x="37" y="163" fill="#F1F6FC" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.8">Sergio</text>
+  <text x="37" y="225" fill="#F1F6FC" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.8">Nascimento</text>
+  <text x="40" y="275" fill="#C7D5E5" font-family="'Segoe UI', Arial, sans-serif" font-size="28">Engenheiro de Software</text>
+  <text x="40" y="317" fill="#A5E7F0" font-family="'Segoe UI', Arial, sans-serif" font-size="29" font-weight="600">Arquitetura de Software</text>
+  <text x="41" y="372" fill="#94A9BF" font-family="Consolas, 'Liberation Mono', monospace" font-size="18" letter-spacing="2">FOCO ATUAL</text>
   <g font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="600">
-    <rect x="40" y="358" width="151" height="56" rx="13" fill="#2B211F" stroke="#68493C"/>
-    <circle cx="65" cy="386" r="5" fill="#F1AA82"/>
-    <text x="83" y="396" fill="#FFD0B2">Rust</text>
-    <rect x="205" y="358" width="184" height="56" rx="13" fill="#122A37" stroke="#285168"/>
-    <circle cx="230" cy="386" r="5" fill="#67E8F9"/>
-    <text x="248" y="396" fill="#C5F5FC">Python</text>
-    <rect x="40" y="428" width="260" height="56" rx="13" fill="#17263E" stroke="#314A70"/>
-    <circle cx="65" cy="456" r="5" fill="#8DB9FF"/>
-    <text x="83" y="466" fill="#CDDEFF">Kubernetes</text>
+    <rect x="40" y="393" width="151" height="56" rx="13" fill="#2B211F" stroke="#68493C"/>
+    <circle cx="65" cy="421" r="5" fill="#F1AA82"/>
+    <text x="83" y="431" fill="#FFD0B2">Rust</text>
+    <rect x="205" y="393" width="184" height="56" rx="13" fill="#122A37" stroke="#285168"/>
+    <circle cx="230" cy="421" r="5" fill="#67E8F9"/>
+    <text x="248" y="431" fill="#C5F5FC">Python</text>
+    <rect x="40" y="463" width="260" height="56" rx="13" fill="#17263E" stroke="#314A70"/>
+    <circle cx="65" cy="491" r="5" fill="#8DB9FF"/>
+    <text x="83" y="501" fill="#CDDEFF">Kubernetes</text>
   </g>
-  <path d="M40 508H520" stroke="url(#accent)" stroke-opacity=".5"/>
+  <path d="M40 558H520" stroke="url(#accent)" stroke-opacity=".5"/>
 </svg>

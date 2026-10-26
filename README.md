@@ -1,33 +1,19 @@
 <picture>
   <source media="(max-width: 600px)" srcset="assets/profile-mobile.svg">
-  <img src="assets/profile.svg" width="100%" alt="Sergio — Backend, sistemas e cloud. Foco atual em Rust, Python e Kubernetes.">
+  <img src="assets/profile.svg" width="100%" alt="Sergio Nascimento — Engenheiro de Software. Foco em Arquitetura de Software, Rust, Python e Kubernetes.">
 </picture>
 
-Meu foco atual está em **Rust, Python e Kubernetes**, com interesse em arquitetura, automação e confiabilidade de software.
+Sou **engenheiro de software**, com foco em **arquitetura de software** e na construção de sistemas confiáveis.
 
-### Outras tecnologias dos meus projetos
+### Tecnologias e ferramentas
 
 | Área | Tecnologias |
 | :--- | :--- |
-| Backend e APIs | Python · Django REST Framework · Java · Spring Boot · TypeScript · NestJS |
-| Dados | PostgreSQL · SQL · Flyway |
-| Containers e cloud | Docker · S3 |
+| Backend e APIs | Rust · Python |
+| Bancos de dados | PostgreSQL · MongoDB · Redis |
+| Containers e cloud | AWS · Docker · MGC (Magalu Cloud) |
 | Observabilidade | Grafana · Prometheus · Loki · Tempo |
 | Interfaces | React · TypeScript · Vite · Tailwind CSS |
-
-### Projetos em destaque
-
-**[Magalu Vault Sync](https://community.obsidian.md/plugins/magalu-vault-sync)**
-
-Plugin para Obsidian que sincroniza notas e anexos com Magalu Cloud S3, com criptografia no dispositivo e histórico de revisões. [Repositório e releases](https://github.com/SergioRicJr/magalu-vault-sync-releases).
-
-**[Financial Boost](https://github.com/SergioRicJr/financial-boost)**
-
-API em Java com Spring Boot, PostgreSQL e migrações com Flyway.
-
-**[Portfólio](https://github.com/SergioRicJr/portfolio)**
-
-Interface em React e TypeScript, construída com Vite e Tailwind CSS.
 
 ---
 

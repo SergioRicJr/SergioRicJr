@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Sergio — Backend, sistemas e cloud</title>
-  <desc id="desc">Foco atual em Rust, Python e Kubernetes. Card em azul escuro com detalhes em ciano e cobre.</desc>
+  <title id="title">Sergio Nascimento — Engenheiro de Software</title>
+  <desc id="desc">Arquitetura de Software. Foco atual em Rust, Python e Kubernetes. Card em azul escuro com detalhes em ciano e cobre.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="960" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#101C2C"/>
@@ -21,9 +21,10 @@
   <path d="M656 1V359M736 1V359M816 1V359M896 1V359M576 80H959M576 160H959M576 240H959M576 320H959" stroke="#7EB4CC" stroke-opacity=".045"/>
   <path d="M48 40H124" stroke="#67E8F9" stroke-width="3" stroke-linecap="round"/>
   <text x="48" y="80" fill="#9CB0C7" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" letter-spacing="1.4">SERGIORICJR</text>
-  <text x="45" y="151" fill="#F1F6FC" font-family="'Segoe UI', Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-2.4">Sergio</text>
-  <text x="48" y="197" fill="#C7D5E5" font-family="'Segoe UI', Arial, sans-serif" font-size="29" font-weight="400">Backend, sistemas &amp; cloud</text>
-  <text x="49" y="245" fill="#94A9BF" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2">FOCO ATUAL</text>
+  <text x="45" y="135" fill="#F1F6FC" font-family="'Segoe UI', Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.8">Sergio Nascimento</text>
+  <text x="48" y="178" fill="#C7D5E5" font-family="'Segoe UI', Arial, sans-serif" font-size="26">Engenheiro de Software</text>
+  <text x="48" y="219" fill="#A5E7F0" font-family="'Segoe UI', Arial, sans-serif" font-size="29" font-weight="600">Arquitetura de Software</text>
+  <text x="49" y="250" fill="#94A9BF" font-family="Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2">FOCO ATUAL</text>
   <g font-family="'Segoe UI', Arial, sans-serif" font-size="23" font-weight="600">
     <rect x="48" y="263" width="126" height="48" rx="12" fill="#2B211F" stroke="#68493C"/>
     <circle cx="70" cy="287" r="4" fill="#F1AA82"/>
