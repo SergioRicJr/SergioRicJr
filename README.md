@@ -10,9 +10,9 @@ Sou **engenheiro de software**, com foco em **arquitetura de software** e na con
 | Área | Tecnologias |
 | :--- | :--- |
 | Backend e APIs | Rust · Python |
-| Bancos de dados | PostgreSQL · MongoDB · Redis |
+| Bancos de dados | PostgreSQL · MongoDB · Redis · Cassandra |
 | Containers e cloud | AWS · Docker · MGC (Magalu Cloud) |
-| Observabilidade | Grafana · Prometheus · Loki · Tempo |
+| Observabilidade | Grafana · Prometheus · Loki · Tempo · OpenTelemetry · Datadog |
 | Interfaces | React · TypeScript · Vite · Tailwind CSS |
 
 ---
