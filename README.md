@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/SergioRicJr/SergioRicJr/f60afa1b444abb31769841ca3156df8601c4ec6f/assets/profile.svg" width="100%" alt="Sergio Nascimento — Engenheiro de Software. Foco atual em Arquitetura de software.">
 </picture>
 
-Sou **engenheiro de software**, com foco em **arquitetura de software** e na construção de sistemas confiáveis.
+Sou **engenheiro de software**, com foco em **arquitetura de software** e na construção de sistemas confiáveis em alta escala.
 
 ### Tecnologias e ferramentas
 
