@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Sergio Nascimento — Engenheiro de Software</title>
-  <desc id="desc">Arquitetura de Software. Foco atual em Rust, Python e Kubernetes. Card em azul escuro com detalhes em ciano e cobre.</desc>
+  <desc id="desc">Foco atual em Arquitetura de software. Card em azul escuro com detalhes em ciano.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="960" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#101C2C"/>
@@ -23,18 +23,11 @@
   <text x="48" y="80" fill="#9CB0C7" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" letter-spacing="1.4">SERGIORICJR</text>
   <text x="45" y="135" fill="#F1F6FC" font-family="'Segoe UI', Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.8">Sergio Nascimento</text>
   <text x="48" y="178" fill="#C7D5E5" font-family="'Segoe UI', Arial, sans-serif" font-size="26">Engenheiro de Software</text>
-  <text x="48" y="219" fill="#A5E7F0" font-family="'Segoe UI', Arial, sans-serif" font-size="29" font-weight="600">Arquitetura de Software</text>
-  <text x="49" y="250" fill="#94A9BF" font-family="Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2">FOCO ATUAL</text>
+  <text x="49" y="235" fill="#94A9BF" font-family="Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2">FOCO ATUAL</text>
   <g font-family="'Segoe UI', Arial, sans-serif" font-size="23" font-weight="600">
-    <rect x="48" y="263" width="126" height="48" rx="12" fill="#2B211F" stroke="#68493C"/>
-    <circle cx="70" cy="287" r="4" fill="#F1AA82"/>
-    <text x="85" y="295" fill="#FFD0B2">Rust</text>
-    <rect x="187" y="263" width="153" height="48" rx="12" fill="#122A37" stroke="#285168"/>
-    <circle cx="209" cy="287" r="4" fill="#67E8F9"/>
-    <text x="224" y="295" fill="#C5F5FC">Python</text>
-    <rect x="353" y="263" width="213" height="48" rx="12" fill="#17263E" stroke="#314A70"/>
-    <circle cx="375" cy="287" r="4" fill="#8DB9FF"/>
-    <text x="390" y="295" fill="#CDDEFF">Kubernetes</text>
+    <rect x="48" y="251" width="350" height="56" rx="12" fill="#122A37" stroke="#285168"/>
+    <circle cx="70" cy="279" r="4" fill="#67E8F9"/>
+    <text x="85" y="287" fill="#C5F5FC">Arquitetura de software</text>
   </g>
   <g aria-hidden="true">
     <path d="M676 137L760 89L844 137V234L760 282L676 234V137Z" fill="#122A3B" fill-opacity=".5" stroke="#2A5B73" stroke-width="1.5"/>
