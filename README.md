@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-mobile.svg">
-  <img src="assets/profile.svg" width="100%" alt="Sergio Nascimento — Engenheiro de Software. Foco atual em Arquitetura de software.">
+  <source media="(max-width: 600px)" srcset="assets/profile-mobile.svg?v=f60afa1">
+  <img src="assets/profile.svg?v=f60afa1" width="100%" alt="Sergio Nascimento — Engenheiro de Software. Foco atual em Arquitetura de software.">
 </picture>
 
 Sou **engenheiro de software**, com foco em **arquitetura de software** e na construção de sistemas confiáveis.
