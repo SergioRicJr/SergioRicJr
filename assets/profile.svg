@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sergio — Backend, sistemas e cloud</title>
+  <desc id="desc">Foco atual em Rust, Python e Kubernetes. Card em azul escuro com detalhes em ciano e cobre.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101C2C"/>
+      <stop offset="1" stop-color="#080F1B"/>
+    </linearGradient>
+    <radialGradient id="light" cx="0" cy="0" r="1" gradientTransform="translate(814 88) rotate(125) scale(335 390)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#164967" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#164967" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="48" y1="0" x2="910" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset=".52" stop-color="#2A728E"/>
+      <stop offset="1" stop-color="#2A728E" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="959" height="359" rx="22" fill="url(#background)" stroke="#26364A"/>
+  <rect x="1" y="1" width="958" height="358" rx="22" fill="url(#light)"/>
+  <path d="M656 1V359M736 1V359M816 1V359M896 1V359M576 80H959M576 160H959M576 240H959M576 320H959" stroke="#7EB4CC" stroke-opacity=".045"/>
+  <path d="M48 40H124" stroke="#67E8F9" stroke-width="3" stroke-linecap="round"/>
+  <text x="48" y="80" fill="#9CB0C7" font-family="Consolas, 'Liberation Mono', monospace" font-size="17" letter-spacing="1.4">SERGIORICJR</text>
+  <text x="45" y="151" fill="#F1F6FC" font-family="'Segoe UI', Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-2.4">Sergio</text>
+  <text x="48" y="197" fill="#C7D5E5" font-family="'Segoe UI', Arial, sans-serif" font-size="29" font-weight="400">Backend, sistemas &amp; cloud</text>
+  <text x="49" y="245" fill="#94A9BF" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2">FOCO ATUAL</text>
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="23" font-weight="600">
+    <rect x="48" y="263" width="126" height="48" rx="12" fill="#2B211F" stroke="#68493C"/>
+    <circle cx="70" cy="287" r="4" fill="#F1AA82"/>
+    <text x="85" y="295" fill="#FFD0B2">Rust</text>
+    <rect x="187" y="263" width="153" height="48" rx="12" fill="#122A37" stroke="#285168"/>
+    <circle cx="209" cy="287" r="4" fill="#67E8F9"/>
+    <text x="224" y="295" fill="#C5F5FC">Python</text>
+    <rect x="353" y="263" width="213" height="48" rx="12" fill="#17263E" stroke="#314A70"/>
+    <circle cx="375" cy="287" r="4" fill="#8DB9FF"/>
+    <text x="390" y="295" fill="#CDDEFF">Kubernetes</text>
+  </g>
+  <g aria-hidden="true">
+    <path d="M676 137L760 89L844 137V234L760 282L676 234V137Z" fill="#122A3B" fill-opacity=".5" stroke="#2A5B73" stroke-width="1.5"/>
+    <path d="M676 137L760 186L844 137M760 186V282" stroke="#2A5B73" stroke-width="1.5"/>
+    <path d="M711 157L760 129L809 157V214L760 242L711 214V157Z" fill="#112030" stroke="#4B9CB2" stroke-width="1.5"/>
+    <path d="M711 157L760 185L809 157M760 185V242" stroke="#4B9CB2" stroke-width="1.5"/>
+    <path d="M760 89V62H884M844 234L868 248H899M676 234L652 248H626" stroke="#35617B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="760" cy="89" r="5" fill="#67E8F9"/>
+    <circle cx="844" cy="234" r="5" fill="#75A9E6"/>
+    <circle cx="676" cy="234" r="5" fill="#E9A37D"/>
+    <circle cx="884" cy="62" r="3" fill="#41667E"/>
+    <circle cx="899" cy="248" r="3" fill="#41667E"/>
+    <circle cx="626" cy="248" r="3" fill="#41667E"/>
+    <path d="M744 177L732 185L744 193M776 177L788 185L776 193M764 173L756 197" stroke="#A5E7F0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M48 337H912" stroke="url(#accent)" stroke-opacity=".5"/>
+</svg>
